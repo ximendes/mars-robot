@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: MARS
+
+server:
+  port: 8080
